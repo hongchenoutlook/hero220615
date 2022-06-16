@@ -1,18 +1,18 @@
 {
-  "name": "Heroku_v2ray",
-  "description": "DaoChen's v2",
+  "name": "Heroku_ring",
+  "description": "ring's v2",
   "keywords": [
     ""
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "协议",
       "value": "vmess",
       "required": true
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "87d405c3-3463-4e69-ac17-a68611aba8b6",
+      "value": "580814c2-a784-44d0-9380-56aa03a7de75",
       "required": true
     },
     "WS_PATH": {
